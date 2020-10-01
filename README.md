@@ -1,7 +1,7 @@
 # TLA: Three Letter Acronym
 
 This small script is aimed at collecting all 3 letter acronyms 
-in an input file `input.txt` 
+from an input file `input.txt` into a `database.txt` file
 
 # Usage
 
